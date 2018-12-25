@@ -601,8 +601,5 @@
 	#wowslider-container1 .ws_bullets,
 	#wowslider-container1 .ws_thumbs{
 		display: none
-img.align-center {
-		display: block;
-		margin: 3px auto;}
 	}
 }
